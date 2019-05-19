@@ -1,4 +1,4 @@
-let myName = "Byron the Poodle";
+let myName = 'Jennifer is the champion';
 let colors = [
   "red", "orange", "yellow",
   "blue", "green", "indigo",
